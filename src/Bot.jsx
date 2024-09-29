@@ -31,10 +31,10 @@ console.log("Key value: ", key);
           }
           .lynk-chatbot-container {
             position: fixed;
-            bottom: 30px;
-            right: 30px;
+            bottom: 60px;
+            right: 60px;
             width: 360px;
-            height:1550px;
+            height:550px;
             background-color: white;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
             border: 1px solid #ccc;
