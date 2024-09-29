@@ -34,7 +34,7 @@ console.log("Key value: ", key);
             bottom: 30px;
             right: 30px;
             width: 360px;
-            height: 1550px;
+            height:1550px;
             background-color: white;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
             border: 1px solid #ccc;
