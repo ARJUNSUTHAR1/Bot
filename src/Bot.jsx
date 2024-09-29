@@ -59,7 +59,7 @@ console.log("Key value: ", key);
 
         const container = document.createElement('div');
         container.className = 'lynk-chatbot-container';
-        container.innerHTML = '<iframe src="https://lynkadmin-803343033442.us-central1.run.app/chatbot?customerKey=${key}" class="lynk-chatbot-frame" title="Chatbot"></iframe>';
+        container.innerHTML = '<iframe src="http://localhost:5173/chatbot?customerKey=${key}" class="lynk-chatbot-frame" title="Chatbot"></iframe>';
         document.body.appendChild(container);
 
         // Toggle chatbot visibility
