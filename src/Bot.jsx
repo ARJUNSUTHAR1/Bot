@@ -32,9 +32,9 @@ console.log("Key value: ", key);
           .lynk-chatbot-container {
             position: fixed;
             top: 40px;
-            right: 48px;
-            width: 40vw;
-            height: 85vh;
+            right: 8px;
+            width: 360px;
+            height: 550px;
             background-color: white;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
             border: 1px solid #ccc;
